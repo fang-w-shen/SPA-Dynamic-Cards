@@ -1,0 +1,27 @@
+#blog {
+	display:flex;
+
+	flex-direction: column;
+	word-wrap:break-word;
+	width:50%;
+	margin:auto;
+
+}
+label, input {
+	color:black;
+}
+
+#blogs {
+	margin-bottom:2em;
+	margin-top: 2em;
+
+	font-weight:bolder;
+
+}
+
+.blogtext {
+	display:block;
+	border:1px solid red;
+	box-shadow: grey;
+	background-color:cyan;
+}
